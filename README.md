@@ -1,4 +1,9 @@
-# Deep learning algorithm to detect different types of emotions contained in a collection of English Sentences or a large paragraph
+# Automated detection of different emotions from textual comments and feedbacks
+
+## Aim:
+To develop a deep learning algorithm to detect different
+types of emotions contained in a collection of english
+sentences or a large paragraph.
 
 ## Synopsis:
 Social networking platforms have become an essential means for communicating
